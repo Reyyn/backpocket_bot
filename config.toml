@@ -1,0 +1,6 @@
+[Auth]
+client_id = ""
+client_secret = ""
+nick = "backpocket_bot"
+channel = ''
+command_char = '!'
