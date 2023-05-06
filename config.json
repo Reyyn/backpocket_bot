@@ -1,0 +1,20 @@
+{
+    "template_commands": {
+        "test": "This counter is {self.state[counters][test]}"
+    },
+    "counters": {
+        "test": 4
+    },
+    "chat_timers": {
+        "test": [0, 30, "sample message"]
+    },
+    "mods": [
+        "reyyn"
+    ],
+    "greetings": [
+        "I am in the back pocket!",
+        "*muffled screams*",
+        "ChatJippity has nothing on me!",
+        "Jumped in the shirt pocket!"
+    ]
+}
